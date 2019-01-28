@@ -1,10 +1,5 @@
 # React Native Boilerplate
- React native boilerplate using Typescript, Styled-components, Redux, Redux-saga, Jest
-  Linter/Formatter: TSlint, Prettier
-  Builder: Metro, Gradle, XCode
-
-## Pages
-
+React native boilerplate using Typescript, Styled-components, Redux, Redux-saga, Jest
 
 ## Installation
 1. Clone/download repo
