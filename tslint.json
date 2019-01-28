@@ -1,0 +1,23 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended",
+    "tslint-config-standard",
+    "tslint-react",
+    "tslint-config-prettier"
+  ],
+  "jsRules": {},
+  "rules": {
+    "object-literal-sort-keys": false,
+    "no-console": false,
+    "no-shadowed-variable": false,
+    "member-ordering": false,
+    "jsx-key": false,
+    "no-var-requires": false,
+    "jsx-no-lambda": false,
+    "no-bitwise": false
+  },
+  "linterOptions": {
+    "exclude": ["node_modules"]
+  }
+}
